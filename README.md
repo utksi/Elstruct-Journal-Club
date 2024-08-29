@@ -3,12 +3,12 @@ Minutes from Journal club meetings for elstruct@LiU
 
 The last meeting was on 2024-08-29.
 
-### [Dark states of electrons in a quantum system with two pairs of sublattices](https://www.nature.com/articles/s41567-024-02586-x) will be discussed in the next meeting.
+[Dark states of electrons in a quantum system with two pairs of sublattices](https://www.nature.com/articles/s41567-024-02586-x) will be discussed in the next meeting.
 
-##Candidates for the next meeting:
+## Candidates for the next meeting:
 
 ### Electronic-structure methods for materials design [Read](https://www.nature.com/articles/s41563-021-01013c-3)
-- Nicola Marzari, Andrea Ferreti, and Chris Wolverton, Nature Materials volume **20**, pages 736–749 (2021)
+Nicola Marzari, Andrea Ferreti, and Chris Wolverton, Nature Materials volume **20**, pages 736–749 (2021)
 
 Abstract -
 
@@ -20,7 +20,7 @@ Simulations can greatly accelerate the identification, characterization and opti
 </details>
 
 ### Phonon-induced renormalization of exchange interactions in metallic two-dimensional magnets [Read](https://arxiv.org/abs/2406.05229)
-- D. I. Badrtdinov, M. I. Katsnelson, and A. N. Rudenko, arXiv:2406.05229 (2024)
+D. I. Badrtdinov, M. I. Katsnelson, and A. N. Rudenko, arXiv:2406.05229 (2024)
 
 Abstract - 
 
@@ -33,7 +33,7 @@ Here, we present a theory of this mechanism used to estimate its effect on the e
 
 ### Ephemeral data derived potentials for random structure search [Read](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.106.014102)
 
-- Chris J. Pickard Phys. Rev. B **106**, 014102 (2022)
+Chris J. Pickard Phys. Rev. B **106**, 014102 (2022)
 
 Abstract - 
 
@@ -45,7 +45,7 @@ First-principles density functional based calculations are highly reliable, fait
 
 ### Anomalies in particle physics and their implications for physics beyond the standard model [Read](https://www.nature.com/articles/s42254-024-00703-6)
 
-- Andreas Crivellin and Bruce Mellado, Nat. Rev. Phys. volume **6**, pages 294–309 (2024)
+Andreas Crivellin and Bruce Mellado, Nat. Rev. Phys. volume **6**, pages 294–309 (2024)
 
 Abstract - 
 
@@ -57,7 +57,7 @@ Its last missing particle, the Higgs boson, was observed in 2012. However, there
 
 ### Dark states of electrons in a quantum system with two pairs of sublattices [Read](https://www.nature.com/articles/s41567-024-02586-x)
 
-- Yoonah Chung et al., Nature Physics (2024)
+Yoonah Chung et al., Nature Physics (2024)
 
 Abstract -
 
@@ -69,7 +69,7 @@ This basic concept can be applied to condensed matter where it suggests that a w
 
 ### Coherent Acoustic Control of Defect Orbital States in the Strong-Driving Limit [Read](https://journals.aps.org/prxquantum/abstract/10.1103/PRXQuantum.5.030336)
 
-- B.A. McCullian, V. Sharma, H.Y. Chen, J.C. Crossman, E.J. Mueller, and G.D. Fuchs, PRX Quantum **5**, 030336 (2024)
+B.A. McCullian, V. Sharma, H.Y. Chen, J.C. Crossman, E.J. Mueller, and G.D. Fuchs, PRX Quantum **5**, 030336 (2024)
 
 Abstract - 
 
@@ -80,7 +80,7 @@ Coherent quantum control is an essential tool for understanding and mitigating d
 </details>
 
 ### Improving equations of state calibrations in the toroidal DAC—The case study of molybdenum [Read](https://doi.org/10.1063/5.0223794)
-- C. C. Zurkowski, R. E. Lim, O. S. Pardo, E. F. O’ Bannon III, K. Glazyrin, P. Söderlind, Zs. Jenei, J. Appl. Phys. **136**, 075901 (2024)
+C. C. Zurkowski, R. E. Lim, O. S. Pardo, E. F. O’ Bannon III, K. Glazyrin, P. Söderlind, Zs. Jenei, J. Appl. Phys. **136**, 075901 (2024)
 
 Abstract - 
 
