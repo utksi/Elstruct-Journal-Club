@@ -7,12 +7,7 @@
 
    Abstract -
 
-   The accuracy and efficiency of electronic-structure methods to understand, predict and design the properties of materials has driven a new paradigm in research.
-   <details>
-   <summary>See More...</summary>
-
-   Simulations can greatly accelerate the identification, characterization and optimization of materials, with this acceleration driven by continuous progress in theory, algorithms and hardware, and by adaptation of concepts and tools from computer science. Nevertheless, the capability to identify and characterize materials relies on the predictive accuracy of the underlying physical descriptions, and on the ability to capture the complexity of realistic systems. We provide here an overview of electronic-structure methods, of their application to the prediction of materials properties, and of the different strategies employed towards the broader goals of materials design and discovery.
-   </details>
+   The accuracy and efficiency of electronic-structure methods to understand, predict and design the properties of materials has driven a new paradigm in research.<details><summary>See More...</summary> Simulations can greatly accelerate the identification, characterization and optimization of materials, with this acceleration driven by continuous progress in theory, algorithms and hardware, and by adaptation of concepts and tools from computer science. Nevertheless, the capability to identify and characterize materials relies on the predictive accuracy of the underlying physical descriptions, and on the ability to capture the complexity of realistic systems. We provide here an overview of electronic-structure methods, of their application to the prediction of materials properties, and of the different strategies employed towards the broader goals of materials design and discovery.</details>
 
 ---
 
