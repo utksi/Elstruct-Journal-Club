@@ -1,8 +1,3 @@
-# Elstruct Journal Club
-Minutes from Journal club meetings for elstruct@LiU
-
-The last meeting was on 2024-08-29.
-
 ### [Dark states of electrons in a quantum system with two pairs of sublattices](https://www.nature.com/articles/s41567-024-02586-x) will be discussed in the next meeting.
 
 ##Candidates for the next meeting:
