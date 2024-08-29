@@ -1,6 +1,6 @@
 [Dark states of electrons in a quantum system with two pairs of sublattices](https://www.nature.com/articles/s41567-024-02586-x) will be discussed in the next meeting.
 
-## Candidates for the next meeting:
+## Candidates discussed in the last meeting:
 
 1. ### Electronic-structure methods for materials design [\[Read\]](https://www.nature.com/articles/s41563-021-01013c-3)
    Nicola Marzari, Andrea Ferreti, and Chris Wolverton, Nature Materials volume **20**, pages 736–749 (2021)
