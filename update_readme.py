@@ -27,7 +27,7 @@ The last meeting was on {latest_folder}.
 
 """
 
-    minutes_path = os.path.join(root_dir, latest_folder, "minutes.md")
+    minutes_path = os.path.join(root_dir, latest_folder, "README.md")
     if os.path.exists(minutes_path):
         with open(minutes_path, 'r') as minutes_file:
             readme_content += minutes_file.read()
