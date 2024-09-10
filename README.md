@@ -95,7 +95,7 @@ The last meeting was on 2024-08-29.
 
 ---
 
-8. ### Evaluation of thermodynamic equations of state across chemistry and structure in the materials project [Read](https://doi.org/10.1038/s41524-018-0091-x)
+8. ### Evaluation of thermodynamic equations of state across chemistry and structure in the materials project [\[Read\]](https://doi.org/10.1038/s41524-018-0091-x)
     Katherine Latimer, Shyam Dwaraknath, Kiran Mathew, Donald Winston & Kristin A. Persson, *npj Comput Mater* **4**, 40 (2018)
 
     Abstract -
