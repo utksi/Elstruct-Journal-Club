@@ -87,3 +87,14 @@
    <summary>See More...</summary>
    For an improved compression environment, we developed a copper (Cu) pressure-transmitting medium (PTM) for the toroidal diamond-anvil cell samples, as it is a soft metal compared to Mo with a well calibrated EoS. A Ne PTM was used for the conventional beveled DAC samples. The unit-cell volumes of Mo were measured to 336(1) GPa in the Cu PTM and 231.2(6) GPa in the Ne PTM at room temperature. We additionally calculated elastic stiffness and compliance constants and evaluated the uniaxial stress of Mo and Cu with pressure. A new EoS for Mo is presented from data collected in all sample environments and compared to our theoretical predictions as well as previous compression studies of Mo. The (200) lattice plane of Mo produced the lowest volumes across the pressure range of this study for all compression environments, suggesting that it is less affected by nonhydrostatic stresses in the DAC compared to the other observed diffraction planes. The presented Mo EoS is compatible with extrapolations of EoS fits of Mo in helium (He) within ∼1% at 330 GPa. Results from this work demonstrate that compressing a sample in a softer metal in the toroidal DAC can improve the compression environment and result in measured sample volumes comparable to those collected in noble-gas media at multi-megabar conditions.
    </details>
+
+8. ### Evaluation of thermodynamic equations of state across chemistry and structure in the materials project [Read](https://doi.org/10.1038/s41524-018-0091-x)
+    Katherine Latimer, Shyam Dwaraknath, Kiran Mathew, Donald Winston & Kristin A. Persson, *npj Comput Mater* **4**, 40 (2018)
+
+    Abstract -
+
+    Thermodynamic equations of state (EOS) for crystalline solids describe material behaviors under changes in pressure, volume, entropy and temperature, making them fundamental to scientific research in a wide range of fields including geophysics, energy storage and development of novel materials.    
+    <details>
+    <summary>See More...</summary>
+    Despite over a century of theoretical development and experimental testing of energy–volume (E–V) EOS for solids, there is still a lack of consensus with regard to which equation is indeed optimal, as well as to what metric is most appropriate for making this judgment. In this study, several metrics were used to evaluate quality of fit for 8 different EOS across 87 elements and over 100 compounds which appear in the literature. Our findings do not indicate a clear “best” EOS, but we identify three which consistently perform well relative to the rest of the set. Furthermore, we find that for the aggregate data set, the RMSrD is not strongly correlated with the nature of the compound, e.g., whether it is a metal, insulator, or semiconductor, nor the bulk modulus for any of the EOS, indicating that a single equation can be used across a broad range of classes of materials.
+    </details>
