@@ -93,6 +93,8 @@ The last meeting was on 2024-08-29.
    For an improved compression environment, we developed a copper (Cu) pressure-transmitting medium (PTM) for the toroidal diamond-anvil cell samples, as it is a soft metal compared to Mo with a well calibrated EoS. A Ne PTM was used for the conventional beveled DAC samples. The unit-cell volumes of Mo were measured to 336(1) GPa in the Cu PTM and 231.2(6) GPa in the Ne PTM at room temperature. We additionally calculated elastic stiffness and compliance constants and evaluated the uniaxial stress of Mo and Cu with pressure. A new EoS for Mo is presented from data collected in all sample environments and compared to our theoretical predictions as well as previous compression studies of Mo. The (200) lattice plane of Mo produced the lowest volumes across the pressure range of this study for all compression environments, suggesting that it is less affected by nonhydrostatic stresses in the DAC compared to the other observed diffraction planes. The presented Mo EoS is compatible with extrapolations of EoS fits of Mo in helium (He) within ∼1% at 330 GPa. Results from this work demonstrate that compressing a sample in a softer metal in the toroidal DAC can improve the compression environment and result in measured sample volumes comparable to those collected in noble-gas media at multi-megabar conditions.
    </details>
 
+---
+
 8. ### Evaluation of thermodynamic equations of state across chemistry and structure in the materials project [Read](https://doi.org/10.1038/s41524-018-0091-x)
     Katherine Latimer, Shyam Dwaraknath, Kiran Mathew, Donald Winston & Kristin A. Persson, *npj Comput Mater* **4**, 40 (2018)
 
