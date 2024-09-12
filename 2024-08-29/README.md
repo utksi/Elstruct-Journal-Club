@@ -21,6 +21,7 @@
    <details>
    <summary>See More...</summary>
    Here, we present a theory of this mechanism used to estimate its effect on the exchange interactions in 2D magnets. Starting from a square lattice model at half filling, we show that the presence of electron-phonon coupling with equilibrium phonon distribution leads to a notable suppression of exchange interactions with temperature. We then apply our approach to the prototypical 2D metallic ferromagnet, Fe3GeTe2, with moderate electron-phonon coupling. We find that the exchange interactions undergo a renormalization, leading to a softening of the magnon modes, and suppression of the Curie temperature by ∼10\%. We expect that this effect can be further enhanced in systems with strong electron-phonon coupling, as well as for non-equilibrium distribution of phonons induced by strong laser fields or charge currents.
+      
    </details>
 
 ---
