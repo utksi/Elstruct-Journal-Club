@@ -1,96 +1,89 @@
 # Elstruct Journal Club
 Minutes from Journal club meetings for elstruct@LiU
 
-The last meeting was on 2024-08-29.
+The last meeting was on 2024-09-12.
 
-[Dark states of electrons in a quantum system with two pairs of sublattices](https://www.nature.com/articles/s41567-024-02586-x) will be discussed in the next meeting.
+## Candidates discussed in the the last meeting:
 
-## Candidates discussed in the last meeting:
+1. ### Simultaneously improving accuracy and computational cost under parametric constraints in materials property prediction tasks [\[Read\]](https://doi.org/10.1186/s13321-024-00811-6)
+Gupta, V., Li, Y., Peltekian, A. et al, J Cheminform **16**, 17 (2024)
+ 
 
-1. ### Electronic-structure methods for materials design [\[Read\]](https://www.nature.com/articles/s41563-021-01013c-3)
-   Nicola Marzari, Andrea Ferreti, and Chris Wolverton, Nature Materials volume **20**, pages 736–749 (2021)
+Abstract -
 
-   Abstract -
-
-   The accuracy and efficiency of electronic-structure methods to understand, predict and design the properties of materials has driven a new paradigm in research.<details><summary>See More...</summary> Simulations can greatly accelerate the identification, characterization and optimization of materials, with this acceleration driven by continuous progress in theory, algorithms and hardware, and by adaptation of concepts and tools from computer science. Nevertheless, the capability to identify and characterize materials relies on the predictive accuracy of the underlying physical descriptions, and on the ability to capture the complexity of realistic systems. We provide here an overview of electronic-structure methods, of their application to the prediction of materials properties, and of the different strategies employed towards the broader goals of materials design and discovery.</details>
-
----
-
-2. ### Phonon-induced renormalization of exchange interactions in metallic two-dimensional magnets [\[Read\]](https://arxiv.org/abs/2406.05229)
-   D. I. Badrtdinov, M. I. Katsnelson, and A. N. Rudenko, arXiv:2406.05229 (2024)
-
-   Abstract - 
-
-   The presence of spin-polarized charge carriers in metallic magnets provides a mechanism for spin-lattice interactions mediated by electron-phonon coupling.
-
+   Modern data mining techniques using machine learning (ML) and deep learning (DL) algorithms have been shown to excel in the regression-based task of materials property prediction using various materials representations. 
    <details>
    <summary>See More...</summary>
-   Here, we present a theory of this mechanism used to estimate its effect on the exchange interactions in 2D magnets. Starting from a square lattice model at half filling, we show that the presence of electron-phonon coupling with equilibrium phonon distribution leads to a notable suppression of exchange interactions with temperature. We then apply our approach to the prototypical 2D metallic ferromagnet, Fe3GeTe2, with moderate electron-phonon coupling. We find that the exchange interactions undergo a renormalization, leading to a softening of the magnon modes, and suppression of the Curie temperature by ∼10\%. We expect that this effect can be further enhanced in systems with strong electron-phonon coupling, as well as for non-equilibrium distribution of phonons induced by strong laser fields or charge currents.
+    In an attempt to improve the predictive performance of the deep neural network model, researchers have tried to add more layers as well as develop new architectural components to create sophisticated and deep neural network models that can aid in the training process and improve the predictive ability of the final model. However, usually, these modifications require a lot of computational resources, thereby further increasing the already large model training time, which is often not feasible, thereby limiting usage for most researchers. In this paper, we study and propose a deep neural network framework for regression-based problems comprising of fully connected layers that can work with any numerical vector-based materials representations as model input. We present a novel deep regression neural network, iBRNet, with branched skip connections and multiple schedulers, which can reduce the number of parameters used to construct the model, improve the accuracy, and decrease the training time of the predictive model. We perform the model training using composition-based numerical vectors representing the elemental fractions of the respective materials and compare their performance against other traditional ML and several known DL architectures. Using multiple datasets with varying data sizes for training and testing, We show that the proposed iBRNet models outperform the state-of-the-art ML and DL models for all data sizes. We also show that the branched structure and usage of multiple schedulers lead to fewer parameters and faster model training time with better convergence than other neural networks. Scientific contribution: The combination of multiple callback functions in deep neural networks minimizes training time and maximizes accuracy in a controlled computational environment with parametric constraints for the task of materials property prediction.
    </details>
 
 ---
 
-3. ### Ephemeral data derived potentials for random structure search [\[Read\]](https://journals.aps.org/prb/abstract/10.1103/PRXQuantum.5.030336)
-   Chris J. Pickard Phys. Rev. B **106**, 014102 (2022)
+2. ### Ionic species representations for materials informatics  [\[Read\]](https://chemrxiv.org/engage/chemrxiv/article-details/66acbd865101a2ffa8eaa181) 
+ Anthony Onwuli, Keith T. Butler, Aron Walsh, ChemRxiv. 2024; doi:10.26434/chemrxiv-2024-8621
 
    Abstract - 
-
-   Structure prediction has become a key task of the modern atomistic sciences and depends on the rapid and reliable computation of energy landscapes. 
+    High-dimensional representations of the elements have become common within the field of materials informatics to build useful, structure-agnostic models for the chemistry of materials.
    <details>
-   <summary>See More...</summary>
-   First-principles density functional based calculations are highly reliable, faithfully describing entire energy landscapes. They are, however, computationally intensive and slow compared to interatomic potentials. Great progress has been made in the development of machine learning, or data derived, potentials, which promise to describe entire energy landscapes at first-principles quality. Compared to first-principles approaches, their preparation can be time consuming and delay searching. Ab initio random structure searching (AIRSS) is a straightforward and powerful approach to structure prediction, based on the stochastic generation of sensible initial structures and their repeated local optimization. Here, a scheme, compatible with AIRSS, for the rapid construction of disposable, or ephemeral, data derived potentials (EDDPs) is described. These potentials are constructed using a homogeneous, separable many-body environment vector and iterative neural network fits, sparsely combined through non-negative least squares. The approach is first tested on methane, boron nitride, elemental boron, and urea. In the case of boron, an EDDP generated using data from small unit cells is used to rediscover the complex 𝛾-boron structure without recourse to symmetry or fragments. Finally, an EDDP generated for silane ($SiH_4$) at 500 GPa enables the discovery of an extremely complex, dense structure which significantly modifies silane's high pressure phase diagram. This has implications for the theoretical exploration for high temperature superconductivity in dense hydrides, which have so far largely depended on searches in smaller unit cells.
+       <summary>See More...</summary>
+   However, the characteristics of elements change when they adopt a given oxidation state, with distinct structural preferences and physical properties. We explore several methods for developing embedding vectors of elements decorated with oxidation states. Graphs generated from 110,160 crystals are used to train representations of 84 elements that form 336 species. Clustering these learned representations of ionic species in low-dimensional space reproduces expected chemical heuristics, in particular the separation of cations from anions. We show that these representations have enhanced expressive power for property prediction tasks involving inorganic compounds. We expect that ionic representations, necessary for the description of mixed valence and complex magnetic systems, will support more powerful machine learning models for materials.
    </details>
 
 ---
 
-4. ### Anomalies in particle physics and their implications for physics beyond the standard model [\[Read\]](https://www.nature.com/articles/s42254-024-00703-6)
-   Andreas Crivellin and Bruce Mellado, Nat. Rev. Phys. volume **6**, pages 294–309 (2024)
+3. ### Kernel fusion in atomistic spin dynamics simulations on Nvidia GPUs using tensor compare [\[Read\]](https://doi.org/10.1016/j.jocs.2024.102357)
+Hongwei Chen, Shiyang Chen, Joshua J. Turner, and Adrian Feiguin 
+ 
 
    Abstract - 
-
-   The standard model (SM) of particle physics is the mathematical description of the fundamental constituents and interactions of matter. 
+   In atomistic spin dynamics simulations, the time cost of constructing the space- and time-displaced pair correlation function in real space increases quadratically as the number of spins, leading to significant computational effort.
    <details>
-   <summary>See More...</summary>
-   Its last missing particle, the Higgs boson, was observed in 2012. However, there are several phenomena that the SM cannot account for (such as dark-matter particles, or non-vanishing neutrino masses), neither does it describe gravity. There must be more to discover, to extend the SM into a full description of nature. Here we review the hints of new physics, called anomalies, that are seen for various interactions as discrepancies between standard-model predictions and experimental measurements. We consider both direct high-energy searches for new particles at the Large Hadron Collider at CERN and indirect low-energy precision experiments. These anomalies span an energy scale of more than four orders of magnitude: from the mass of the proton, to the electroweak scale (approximately the mass of the Higgs boson), to the teraelectronvolt scale, which is the highest scale directly accessible at the Large Hadron Collider. We discuss the experimental and theoretical status of various anomalies and summarize possible explanations in terms of new particles and new interactions as well as discovery prospects. We suggest, in particular, that new additional Higgs bosons and so-called leptoquarks are promising candidates for extending the standard model.
-   </details>
+       <summary>See More...</summary>
+    The GEMM subroutine can be adopted to accelerate the calculation of the dynamical spin–spin correlation function, but the computational cost of simulating large spin systems (spins) on CPUs remains expensive. In this work, we perform the simulation on a graphics processing unit (GPU), a hardware solution widely used as an accelerator for scientific computing and deep learning. We show that GPUs can accelerate the simulation up to 25-fold compared to multi-core CPUs when using the GEMM subroutine on both. To hide memory latency, we fuse the element-wise operation into the GEMM kernel using which can improve the performance by 26% ~ 33% compared to the implementation based on. Furthermore, we perform the ‘on-the-fly’ calculation in the epilogue of the GEMM subroutine to avoid saving intermediate results on global memory, which makes large-scale atomistic spin dynamics simulations feasible and affordable.
+    </details>
 
 ---
 
-5. ### Dark states of electrons in a quantum system with two pairs of sublattices [\[Read\]](https://www.nature.com/articles/s41567-024-02586-x)
-   Yoonah Chung et al., Nature Physics (2024)
+4. ### No more soggy cookies: The optimal cookie dunking time [\[Read\]](https://usustatesman.com/no-more-soggy-cookies-the-optimal-cookie-dunking-time/)
+Randy Hurd, Ben Roden and Tadd Truscott, The Utah Statesman
 
-   Abstract -
-
-   A quantum state of matter that is forbidden to interact with photons and is therefore undetectable by spectroscopic means is called a dark state. 
-   <details>
-   <summary>See More...</summary>
-   This basic concept can be applied to condensed matter where it suggests that a whole band of quantum states could be undetectable across a full Brillouin zone. Here we report the discovery of such condensed-matter dark states in palladium diselenide as a model system that has two pairs of sublattices in the primitive cell. By using angle-resolved photoemission spectroscopy, we find valence bands that are practically unobservable over the whole Brillouin zone at any photon energy, polarization and scattering plane. Our model shows that two pairs of sublattices located at half-translation positions and related by multiple glide-mirror symmetries make their relative quantum phases polarized into only four kinds, three of which become dark due to double destructive interference. This mechanism is generic to other systems with two pairs of sublattices, and we show how the phenomena observed in cuprates, lead halide perovskites and density wave systems can be resolved by the mechanism of dark states. Our results suggest that the sublattice degree of freedom, which has been overlooked so far, should be considered in the study of correlated phenomena and optoelectronic characteristics.
-   </details>
+We have all taken that terrifying risk with our chubby, cookie-laden fingers wedged into a glass of ice-cold milk, asking if we can wait just a little longer. We imagine that perfectly soaked, soft and flavorful cookie, while simultaneously overcome with the fear of what may result if we wait too long. To prevent this dunking-based anxiety, I have dedicated a lonely weekend to finding the optimal cooking dunking time.
 
 ---
 
-6. ### Coherent Acoustic Control of Defect Orbital States in the Strong-Driving Limit [\[Read\]](https://journals.aps.org/prxquantum/abstract/10.1103/PRXQuantum.5.030336)
-   B.A. McCullian, V. Sharma, H.Y. Chen, J.C. Crossman, E.J. Mueller, and G.D. Fuchs, PRX Quantum **5**, 030336 (2024)
+
+5. ### Recent and Upcoming Developments in Randomized Numerical Linear Algebra for Machine Learning [\[Read\]](https://arxiv.org/abs/2406.11151)
+Michał Dereziński, Michael W. Mahoney, arXiv:2406.11151 (2024)
 
    Abstract - 
 
-   We use a bulk acoustic wave resonator to demonstrate coherent control of the excited orbital states in a diamond nitrogen-vacancy (NV) center at cryogenic temperature. 
+   Large matrices arise in many machine learning and data analysis applications, including as representations of datasets, graphs, model weights, and first and second-order derivatives. 
    <details>
-   <summary>See More...</summary>
-   Coherent quantum control is an essential tool for understanding and mitigating decoherence. Moreover, characterizing and controlling orbital states is a central challenge for quantum networking, where optical coherence is tied to orbital coherence. We study resonant multiphonon orbital Rabi oscillations in both the frequency and time domain, extracting the strength of the orbital-phonon interactions and the coherence of the acoustically driven orbital states. We reach the strong-driving limit, where the physics is dominated by the coupling induced by the acoustic waves. We find agreement between our measurements, quantum master-equation simulations, and a Landau-Zener transition model in the strong-driving limit. Using perturbation theory, we derive an expression for the orbital Rabi frequency versus the acoustic drive strength that is nonperturbative in the drive strength and agrees well with our measurements for all acoustic powers. Motivated by continuous-wave spin-resonance-based decoherence protection schemes, we model the orbital decoherence and find good agreement between our model and our measured few-to-several-nanoseconds orbital decoherence times. We discuss the outlook for orbital decoherence protection.
+       <summary>See More...</summary>
+   Randomized Numerical Linear Algebra (RandNLA) is an area which uses randomness to develop improved algorithms for ubiquitous matrix problems. The area has reached a certain level of maturity; but recent hardware trends, efforts to incorporate RandNLA algorithms into core numerical libraries, and advances in machine learning, statistics, and random matrix theory, have lead to new theoretical and practical challenges. This article provides a self-contained overview of RandNLA, in light of these developments. 
    </details>
+
+
+6. ### A deep-learning algorithm to disentangle self-interacting dark matter and AGN feedback models [\[Read\]](https://doi.org/10.1038/s41550-024-02322-8)
+David Harvey, *Nat Astron* (2024)
+
+   Abstract - 
+   The nature of dark matter remains one of the greatest unanswered questions in science. The largest concentrations of dark matter appear to lie in galaxy clusters.
+   <details>
+       <summary>See More...</summary>
+    By modifying the properties of dark matter, the distribution of mass in clusters is altered in an observable way. However, uncertain astrophysical mechanisms also alter the mass distribution, often mimicking the effect of different dark matter properties. Here I present a machine learning method that ‘learns’, from simulations, how the impact of dark matter self-interactions differs from that of astrophysical feedback. In the idealized case, my algorithm is 80% accurate at identifying whether a galaxy cluster harbours collisionless dark matter, dark matter with a self interaction cross-section, σDM/m = 0.1 cm2 g−1 or dark matter with σDM/m = 1 cm2 g−1. It is found that weak-lensing information primarily differentiates self-interacting dark matter, whereas X-ray information disentangles different models of astrophysical feedback. The data are forward modelled to imitate observations from Euclid and Chandra, and it is found that the model has a statistical error of σDM/m < 0.01 cm2 g−1 and is insensitive to shape-measurement bias and photometric-redshift errors. This method represents a way to analyse data from upcoming telescopes that are an order of magnitude more precise and many orders faster than current methods, enabling us to explore the properties of dark matter like never before.
+    </details>
 
 ---
 
-7. ### Improving equations of state calibrations in the toroidal DAC—The case study of molybdenum [\[Read\]](https://doi.org/10.1063/5.0223794)
-   C. C. Zurkowski, R. E. Lim, O. S. Pardo, E. F. O' Bannon III, K. Glazyrin, P. Söderlind, Zs. Jenei, J. Appl. Phys. **136**, 075901 (2024)
+7. ### Possibility of reaching the predicted center of the “island of stability” via the radioactive beam‑induced fusion [\[Read\]](https://doi.org/10.1007/s41365-024-01542-x)
+Zhang, MH., Zou, Y., Wang, MC. et al., *NUCL SCI TECH* **35**, 161 (2024) 
 
    Abstract - 
-
-   We report an updated isothermal equation of state (EoS) of molybdenum (Mo) obtained by compression in beveled and toroidal diamond-anvil cells (DACs). 
+   Based on the dinuclear system model, the synthesis of the predicted double-magic nuclei and was investigated via neutron-rich radioactive beam-induced fusion reactions.
    <details>
-   <summary>See More...</summary>
-   For an improved compression environment, we developed a copper (Cu) pressure-transmitting medium (PTM) for the toroidal diamond-anvil cell samples, as it is a soft metal compared to Mo with a well calibrated EoS. A Ne PTM was used for the conventional beveled DAC samples. The unit-cell volumes of Mo were measured to 336(1) GPa in the Cu PTM and 231.2(6) GPa in the Ne PTM at room temperature. We additionally calculated elastic stiffness and compliance constants and evaluated the uniaxial stress of Mo and Cu with pressure. A new EoS for Mo is presented from data collected in all sample environments and compared to our theoretical predictions as well as previous compression studies of Mo. The (200) lattice plane of Mo produced the lowest volumes across the pressure range of this study for all compression environments, suggesting that it is less affected by nonhydrostatic stresses in the DAC compared to the other observed diffraction planes. The presented Mo EoS is compatible with extrapolations of EoS fits of Mo in helium (He) within ∼1% at 330 GPa. Results from this work demonstrate that compressing a sample in a softer metal in the toroidal DAC can improve the compression environment and result in measured sample volumes comparable to those collected in noble-gas media at multi-megabar conditions.
+       <summary>See More...</summary>
+The reaction is predicted to be favorable for producing with a maximal ER cross section of . Investigations of the entrance channel effect reveal that the target is more promising for synthesizing than the neutron-rich targets and , because of the influence of the Coulomb barrier. For the synthesis of , the maximal ER cross section of emerges in the reaction , indicating the need for further advancements in both experimental facilities and reaction mechanisms.
    </details>
 
 ---
@@ -105,3 +98,4 @@ The last meeting was on 2024-08-29.
     <summary>See More...</summary>
     Despite over a century of theoretical development and experimental testing of energy–volume (E–V) EOS for solids, there is still a lack of consensus with regard to which equation is indeed optimal, as well as to what metric is most appropriate for making this judgment. In this study, several metrics were used to evaluate quality of fit for 8 different EOS across 87 elements and over 100 compounds which appear in the literature. Our findings do not indicate a clear “best” EOS, but we identify three which consistently perform well relative to the rest of the set. Furthermore, we find that for the aggregate data set, the RMSrD is not strongly correlated with the nature of the compound, e.g., whether it is a metal, insulator, or semiconductor, nor the bulk modulus for any of the EOS, indicating that a single equation can be used across a broad range of classes of materials.
     </details>
+
