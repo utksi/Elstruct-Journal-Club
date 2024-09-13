@@ -49,7 +49,6 @@
    Michał Dereziński, Michael W. Mahoney, arXiv:2406.11151 (2024)
 
    Abstract - 
-
    Large matrices arise in many machine learning and data analysis applications, including as representations of datasets, graphs, model weights, and first and second-order derivatives. 
    <details>
        <summary>See More...</summary>
