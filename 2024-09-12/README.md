@@ -1,4 +1,4 @@
-## Candidates discussed in the the last meeting:
+## Papers discussed in the the last meeting:
 
 1. ### Simultaneously improving accuracy and computational cost under parametric constraints in materials property prediction tasks [\[Read\]](https://doi.org/10.1186/s13321-024-00811-6)
    Gupta, V., Li, Y., Peltekian, A. et al, *J Cheminform* **16**, 17 (2024)
