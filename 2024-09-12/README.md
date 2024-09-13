@@ -56,15 +56,16 @@
    Randomized Numerical Linear Algebra (RandNLA) is an area which uses randomness to develop improved algorithms for ubiquitous matrix problems. The area has reached a certain level of maturity; but recent hardware trends, efforts to incorporate RandNLA algorithms into core numerical libraries, and advances in machine learning, statistics, and random matrix theory, have lead to new theoretical and practical challenges. This article provides a self-contained overview of RandNLA, in light of these developments. 
    </details>
 
+---
 
-7. ### A deep-learning algorithm to disentangle self-interacting dark matter and AGN feedback models [\[Read\]](https://doi.org/10.1038/s41550-024-02322-8)
+6. ### A deep-learning algorithm to disentangle self-interacting dark matter and AGN feedback models [\[Read\]](https://doi.org/10.1038/s41550-024-02322-8)
    David Harvey, *Nat Astron* (2024)
 
    Abstract - 
    The nature of dark matter remains one of the greatest unanswered questions in science. The largest concentrations of dark matter appear to lie in galaxy clusters.
    <details>
        <summary>See More...</summary>
-    By modifying the properties of dark matter, the distribution of mass in clusters is altered in an observable way. However, uncertain astrophysical mechanisms also alter the mass distribution, often mimicking the effect of different dark matter properties. Here I present a machine learning method that ‘learns’, from simulations, how the impact of dark matter self-interactions differs from that of astrophysical feedback. In the idealized case, my algorithm is 80% accurate at identifying whether a galaxy cluster harbours collisionless dark matter, dark matter with a self interaction cross-section, σDM/m = 0.1 cm2 g−1 or dark matter with σDM/m = 1 cm2 g−1. It is found that weak-lensing information primarily differentiates self-interacting dark matter, whereas X-ray information disentangles different models of astrophysical feedback. The data are forward modelled to imitate observations from Euclid and Chandra, and it is found that the model has a statistical error of σDM/m < 0.01 cm2 g−1 and is insensitive to shape-measurement bias and photometric-redshift errors. This method represents a way to analyse data from upcoming telescopes that are an order of magnitude more precise and many orders faster than current methods, enabling us to explore the properties of dark matter like never before.
+      By modifying the properties of dark matter, the distribution of mass in clusters is altered in an observable way. However, uncertain astrophysical mechanisms also alter the mass distribution, often mimicking the effect of different dark matter properties. Here I present a machine learning method that ‘learns’, from simulations, how the impact of dark matter self-interactions differs from that of astrophysical feedback. In the idealized case, my algorithm is 80% accurate at identifying whether a galaxy cluster harbours collisionless dark matter, dark matter with a self interaction cross-section, σDM/m = 0.1 cm2 g−1 or dark matter with σDM/m = 1 cm2 g−1. It is found that weak-lensing information primarily differentiates self-interacting dark matter, whereas X-ray information disentangles different models of astrophysical feedback. The data are forward modelled to imitate observations from Euclid and Chandra, and it is found that the model has a statistical error of σDM/m < 0.01 cm2 g−1 and is insensitive to shape-measurement bias and photometric-redshift errors. This method represents a way to analyse data from upcoming telescopes that are an order of magnitude more precise and many orders faster than current methods, enabling us to explore the properties of dark matter like never before.
     </details>
 
 ---
@@ -76,7 +77,7 @@
    Based on the dinuclear system model, the synthesis of the predicted double-magic nuclei and was investigated via neutron-rich radioactive beam-induced fusion reactions.
    <details>
        <summary>See More...</summary>
-The reaction is predicted to be favorable for producing with a maximal ER cross section of . Investigations of the entrance channel effect reveal that the target is more promising for synthesizing than the neutron-rich targets and , because of the influence of the Coulomb barrier. For the synthesis of , the maximal ER cross section of emerges in the reaction , indicating the need for further advancements in both experimental facilities and reaction mechanisms.
+      The reaction is predicted to be favorable for producing with a maximal ER cross section of . Investigations of the entrance channel effect reveal that the target is more promising for synthesizing than the neutron-rich targets and , because of the influence of the Coulomb barrier. For the synthesis of , the maximal ER cross section of emerges in the reaction , indicating the need for further advancements in both experimental facilities and reaction mechanisms.
    </details>
 
 ---
