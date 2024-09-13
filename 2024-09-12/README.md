@@ -1,11 +1,9 @@
 ## Candidates discussed in the the last meeting:
 
 1. ### Simultaneously improving accuracy and computational cost under parametric constraints in materials property prediction tasks [\[Read\]](https://doi.org/10.1186/s13321-024-00811-6)
-Gupta, V., Li, Y., Peltekian, A. et al, J Cheminform **16**, 17 (2024)
- 
+   Gupta, V., Li, Y., Peltekian, A. et al, *J Cheminform* **16**, 17 (2024)
 
-Abstract -
-
+   Abstract -
    Modern data mining techniques using machine learning (ML) and deep learning (DL) algorithms have been shown to excel in the regression-based task of materials property prediction using various materials representations. 
    <details>
    <summary>See More...</summary>
@@ -14,8 +12,8 @@ Abstract -
 
 ---
 
-2. ### Ionic species representations for materials informatics  [\[Read\]](https://chemrxiv.org/engage/chemrxiv/article-details/66acbd865101a2ffa8eaa181) 
- Anthony Onwuli, Keith T. Butler, Aron Walsh, ChemRxiv. 2024; doi:10.26434/chemrxiv-2024-8621
+2. ### Ionic species representations for materials informatics  [\[Read\]](https://chemrxiv.org/engage/chemrxiv/article-details/66acbd865101a2ffa8eaa181)
+   Anthony Onwuli, Keith T. Butler, Aron Walsh, ChemRxiv. 2024; doi:10.26434/chemrxiv-2024-8621
 
    Abstract - 
     High-dimensional representations of the elements have become common within the field of materials informatics to build useful, structure-agnostic models for the chemistry of materials.
@@ -27,9 +25,8 @@ Abstract -
 ---
 
 3. ### Kernel fusion in atomistic spin dynamics simulations on Nvidia GPUs using tensor compare [\[Read\]](https://doi.org/10.1016/j.jocs.2024.102357)
-Hongwei Chen, Shiyang Chen, Joshua J. Turner, and Adrian Feiguin 
+   Hongwei Chen, Shiyang Chen, Joshua J. Turner, and Adrian Feiguin 
  
-
    Abstract - 
    In atomistic spin dynamics simulations, the time cost of constructing the space- and time-displaced pair correlation function in real space increases quadratically as the number of spins, leading to significant computational effort.
    <details>
@@ -40,15 +37,16 @@ Hongwei Chen, Shiyang Chen, Joshua J. Turner, and Adrian Feiguin
 ---
 
 4. ### No more soggy cookies: The optimal cookie dunking time [\[Read\]](https://usustatesman.com/no-more-soggy-cookies-the-optimal-cookie-dunking-time/)
-Randy Hurd, Ben Roden and Tadd Truscott, The Utah Statesman
+   Randy Hurd, Ben Roden and Tadd Truscott, The Utah Statesman
 
-We have all taken that terrifying risk with our chubby, cookie-laden fingers wedged into a glass of ice-cold milk, asking if we can wait just a little longer. We imagine that perfectly soaked, soft and flavorful cookie, while simultaneously overcome with the fear of what may result if we wait too long. To prevent this dunking-based anxiety, I have dedicated a lonely weekend to finding the optimal cooking dunking time.
+   Abstract - 
+   We have all taken that terrifying risk with our chubby, cookie-laden fingers wedged into a glass of ice-cold milk, asking if we can wait just a little longer. We imagine that perfectly soaked, soft and flavorful cookie, while simultaneously overcome with the fear of what may result if we wait too long. To prevent this dunking-based anxiety, I have dedicated a lonely weekend to finding the optimal cooking dunking time.
 
 ---
 
 
 5. ### Recent and Upcoming Developments in Randomized Numerical Linear Algebra for Machine Learning [\[Read\]](https://arxiv.org/abs/2406.11151)
-Michał Dereziński, Michael W. Mahoney, arXiv:2406.11151 (2024)
+   Michał Dereziński, Michael W. Mahoney, arXiv:2406.11151 (2024)
 
    Abstract - 
 
@@ -59,8 +57,8 @@ Michał Dereziński, Michael W. Mahoney, arXiv:2406.11151 (2024)
    </details>
 
 
-6. ### A deep-learning algorithm to disentangle self-interacting dark matter and AGN feedback models [\[Read\]](https://doi.org/10.1038/s41550-024-02322-8)
-David Harvey, *Nat Astron* (2024)
+7. ### A deep-learning algorithm to disentangle self-interacting dark matter and AGN feedback models [\[Read\]](https://doi.org/10.1038/s41550-024-02322-8)
+   David Harvey, *Nat Astron* (2024)
 
    Abstract - 
    The nature of dark matter remains one of the greatest unanswered questions in science. The largest concentrations of dark matter appear to lie in galaxy clusters.
@@ -72,7 +70,7 @@ David Harvey, *Nat Astron* (2024)
 ---
 
 7. ### Possibility of reaching the predicted center of the “island of stability” via the radioactive beam‑induced fusion [\[Read\]](https://doi.org/10.1007/s41365-024-01542-x)
-Zhang, MH., Zou, Y., Wang, MC. et al., *NUCL SCI TECH* **35**, 161 (2024) 
+   Zhang, MH., Zou, Y., Wang, MC. et al., *NUCL SCI TECH* **35**, 161 (2024) 
 
    Abstract - 
    Based on the dinuclear system model, the synthesis of the predicted double-magic nuclei and was investigated via neutron-rich radioactive beam-induced fusion reactions.
@@ -87,7 +85,6 @@ The reaction is predicted to be favorable for producing with a maximal ER cross 
     Katherine Latimer, Shyam Dwaraknath, Kiran Mathew, Donald Winston & Kristin A. Persson, *npj Comput Mater* **4**, 40 (2018)
 
     Abstract -
-
     Thermodynamic equations of state (EOS) for crystalline solids describe material behaviors under changes in pressure, volume, entropy and temperature, making them fundamental to scientific research in a wide range of fields including geophysics, energy storage and development of novel materials.    
     <details>
     <summary>See More...</summary>
