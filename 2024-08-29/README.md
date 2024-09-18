@@ -2,7 +2,7 @@
 
 ## Candidates discussed in the last meeting:
 
-1. ### Electronic-structure methods for materials design [\[Read\]](https://www.nature.com/articles/s41563-021-01013c-3)
+1. ### Electronic-structure methods for materials design [\[Read\]](https://doi.org/10.1038/s41563-021-01013-3)
    Nicola Marzari, Andrea Ferreti, and Chris Wolverton, Nature Materials volume **20**, pages 736–749 (2021)
 
    Abstract -
