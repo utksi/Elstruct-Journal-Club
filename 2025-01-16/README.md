@@ -1,8 +1,3 @@
-# Elstruct Journal Club
-Minutes from Journal club meetings for elstruct@LiU
-
-The last meeting was on 2025-01-16.
-
 ## Papers discussed in the the last meeting:
 
 1. ### The teapot effect…a problem [\[Read\]](https://doi.org/10.1063/1.3060089)
