@@ -19,3 +19,11 @@ https://www.nature.com/articles/s41567-024-02707-6
 Abstract -
 
 Superionic materials represent a regime intermediate between the crystalline and liquid states of matter. Despite the considerable interest in potential applications for solid-state batteries or thermoelectric devices, it remains unclear whether the fast ionic diffusion observed in superionic materials reflects liquid-like dynamics or whether the hops of mobile ions are inherently coupled to more conventional lattice phonons. Here we reveal a crossover from crystalline vibrations to relaxational dynamics of ionic diffusion in the superionic compound Li6PS5Cl, a candidate solid-state electrolyte. By combining inelastic and quasi-elastic neutron-scattering measurements with first-principles-based machine-learned molecular dynamics simulations, we found that the vibrational density of states in the superionic state strongly deviates from the quadratic behaviour expected from the Debye law of lattice dynamics. The superionic dynamics emerges from overdamped phonon quasiparticles to give rise to a linear density of states characteristic of instantaneous normal modes in the liquid state. Further, we showed that the coupling of lattice phonons with a dynamic breathing of the Li+ diffusion bottleneck enables an order-of-magnitude increase in diffusivity. Thus, our results shed insights into superionics for future energy storage and conversion technologies.
+
+4. ### Strong Bounds for 3-Progressions
+https://arxiv.org/pdf/2302.05537
+
+Abstract - 
+
+We show that for some constant β > 0, any subset A of integers {1, . . . , N } of size at least 2−O((log N )β ) · N contains a non-trivial three-term arithmetic progression. Previously, three-term arithmetic progressions were known to exist only for sets of size at least N/(log N )1+c for a constant c > 0. Our approach is first to develop new analytic techniques for addressing some related questions in the finite-field setting and then to apply some analogous variants of these same techniques,
+suitably adapted for the more complicated setting of integers.
