@@ -1,7 +1,7 @@
 ## Papers that will be discussed in the coming meeting
 
 
-1. ### ITER: the first experimental fusion reactor [\[Read\]]((https://doi.org/10.1016/0920-3796(95)90113-2))
+1. ### ITER: the first experimental fusion reactor [\[Read\]](https://doi.org/10.1016/0920-3796(95)90113-2)
     P.-H Rebut, the ITER Joint Central Team and Home Teams, Fusion Engineering and Design
     Volume 27, 1 March 1995, Pages 3-16
 
