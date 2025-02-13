@@ -52,7 +52,7 @@ is summarized, and future directions for developing advanced materials to enable
 of an FNSF are discussed
 
 
-5. ### Actively-trained magnetic Moment Tensor Potentials reproduce mechanical, dynamical, and thermal properties of paramagnetic CrN[\[Read\]](https://arxiv.org/pdf/2412.20214v1)
+5. ### Actively-trained magnetic Moment Tensor Potentials reproduce mechanical, dynamical, and thermal properties of paramagnetic CrN [\[Read\]](https://arxiv.org/pdf/2412.20214v1)
    Shapeev and Novikov
    (Ferenc)
    Abstract -
@@ -65,3 +65,8 @@ their derivatives for both equilibrium and non-equilibrium (excited) magnetic st
 protocol on the system of B1-CrN and demonstrate that the automatically trained magnetic Mo-
 ment Tensor Potential reproduces mechanical, dynamical, and thermal properties, of B1-CrN in the
 paramagnetic state with respect to density functional theory and experiments.
+
+6. ### Signatures of ambient pressure superconductivity in thin film La3Ni2O7  [\[Read\]](https://www.nature.com/articles/s41586-024-08525-3)
+   (Ferenc)
+   Abstarct -
+   Recently, the bilayer nickelate La3Ni2O7 has been discovered as a new superconductor with transition temperature Tc near 80 K under high pressure1–3. Despite extensive theoretical and experimental work to understand the nature of its superconductivity4–29, the requirement of extreme pressure restricts the use of many experimental probes and limits its application potential. Here, we present signatures of superconductivity in La3Ni2O7 thin films at ambient pressure, facilitated by the application of epitaxial compressive strain. The onset Tc varies approximately from 26 K to 42 K, with higher Tc values correlating with smaller in-plane lattice constants. We observed the co-existence of other Ruddlesden-Popper phases within the films and dependence of transport behavior with ozone annealing, suggesting that the observed low zero resistance Tc of around 2 K can be attributed to stacking defects, grain boundaries, and oxygen stoichiometry. This finding initiates numerous opportunities to stabilize and study superconductivity in bilayer nickelates at ambient pressure, and to facilitate the broad understanding of the ever-growing number of high temperature and unconventional superconductors in the transition metal oxides.
