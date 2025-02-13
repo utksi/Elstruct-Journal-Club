@@ -45,3 +45,18 @@ components and for the machine-lifetime components such as the vacuum vessel and
 The status of FNSF-relevant materials research and development within the US fusion material program
 is summarized, and future directions for developing advanced materials to enable the long-term missions
 of an FNSF are discussed
+
+
+5. ### Actively-trained magnetic Moment Tensor Potentials reproduce mechanical, dynamical, and thermal properties of paramagnetic CrN[\[Read\]](https://arxiv.org/pdf/2412.20214v1)
+   Shapeev and Novikov
+   (Ferenc)
+   Abstract -
+   We present a protocol for automated fitting of magnetic Moment Tensor Potential explicitly in-
+cluding magnetic moments in its functional form. For the fitting of this potential we use energies,
+forces, stresses, and magnetic forces (negative derivatives of energies with respect to magnetic mo-
+ments) of configurations selected with an active learning algorithm. These selected configurations
+are computed using constrained density functional theory, which enables calculating energies and
+their derivatives for both equilibrium and non-equilibrium (excited) magnetic states. We test our
+protocol on the system of B1-CrN and demonstrate that the automatically trained magnetic Mo-
+ment Tensor Potential reproduces mechanical, dynamical, and thermal properties, of B1-CrN in the
+paramagnetic state with respect to density functional theory and experiments.
