@@ -14,7 +14,10 @@ T. Figgemeier et al.
 Popular summary - In the quantum realm, vortices are central to many key phenomena in modern physics, ranging from flux quantization in superconductors to applied aspects of nanoscale magnetism. A common aspect of quantum vortices is that they are characterized by a winding number and integer quantization. This quantization argument traces back to the geometrical concept of topology characterizing the winding properties of the underlying vector-field configuration. Interestingly, the wave nature of electrons in crystalline solids expressed by wave numbers (or momenta) may also allow for the formation of quantized vortex textures. However, those may appear not in real space but rather in momentum space. Here, we prove the existence of momentum-space vortices for the first time.
 To achieve this, we combine an experimental technique called angle-resolved photoemission spectroscopy, carried out at bulk-sensitive soft x-ray photon energies, with linear and circular dichroism. These experiments allow us to trace an important observable, the orbital angular momentum, of electrons in full 3D momentum space. We find that a metallic quantum material exhibits momentum-space vortices whose existence is enforced by symmetry.
 Our findings may stimulate future research activities on momentum-space vortex lines. In particular, the capability to create tomographic images of those objects will open a new window for this purpose.
-1. ### An operating system for executing applications on quantum network nodes [\[Read\]](https://doi.org/10.1038/s41586-025-08704-w)
+
+---
+
+2. ### An operating system for executing applications on quantum network nodes [\[Read\]](https://doi.org/10.1038/s41586-025-08704-w)
    C. Delle Donne, M. Iuliano, B. van der Vecht, G. M. Ferreira, H. Jirovská, T. J. W. van der Steenhoven, A. Dahlberg, M. Skrzypczyk, D. Fioretto, M. Teller, P. Filippov, A. R.-P. Montblanch, J. Fischer, H. B. van Ommen, N. Demetriou, D. Leichtle, L. Music, H. Ollivier, I. te Raa, W. Kozlowski, T. H. Taminiau, P. Pawełczak, T. E. Northup, R. Hanson & S. Wehner, Nature and 2025
 
    (Gabriel)
