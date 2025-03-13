@@ -5,7 +5,8 @@ The last meeting was on 2025-03-13.
 
 ## Papers that will be discussed in the coming meeting
 
-. ### Imaging Orbital Vortex Lines in Three-Dimensional Momentum Space [\[Read\]](https://journals.aps.org/prx/abstract/10.1103/PhysRevX.15.011032)
+1. ### Imaging Orbital Vortex Lines in Three-Dimensional Momentum Space [\[Read\]](https://journals.aps.org/prx/abstract/10.1103/PhysRevX.15.011032)
+
 T. Figgemeier et al.
 
 (Ferenc)
