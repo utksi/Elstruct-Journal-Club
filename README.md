@@ -41,3 +41,24 @@ K. Song et al.
 Abstract - Machine-learned potentials (MLPs) have exhibited remarkable accuracy, yet the lack of general-purpose MLPs for a broad spectrum of elements and their alloys limits their applicability. Here, we present a promising approach for constructing a unified general-purpose MLP for numerous elements, demonstrated through a model (UNEP-v1) for 16 elemental metals and their alloys. To achieve a complete representation of the chemical space, we show, via principal component analysis and diverse test datasets, that employing one-component and two-component systems suffices. Our unified UNEP-v1 model exhibits superior performance across various physical properties compared to a widely used embedded-atom method potential, while maintaining remarkable efficiency. We demonstrate our approach’s effectiveness through reproducing experimentally observed chemical order and stable phases, and large-scale simulations of plasticity and primary radiation damage in MoTaVW alloys.
 
 ---
+
+4. ### Football as Foraging? Movements by Individual Players and Whole
+Teams Exhibit L´evy Walk Dynamics [\[Read\]](https://onlinelibrary.wiley.com/doi/pdf/10.1155/cplx/3196780)
+
+I. Shpurov et al.
+
+(Tim)
+   
+Abstract - Many organisms, ranging from modern humans to extinct species, exhibit movement patterns that can be described by L´evy walk
+dynamics. It has been demonstrated that such behavior enables optimal foraging when resource distribution is sparse. Here, we
+analyze a dataset of football player trajectories, recorded during the matches of the Japanese football league, to elucidate the
+presence of statistical signatures of L´evy walks, such as the heavy-tailed distribution of distances traveled between signifcant turns
+and the characteristic superdifusive behavior. We conjecture that the competitive environment of a football game leads to bursty
+movement dynamics reminiscent of that observed in hunter-gathering populations and more broadly in any biological organisms
+foraging for resources, whose exact distribution is unknown to them. Apart from analyzing individual players’ movements, we
+investigate the dynamics of the whole team by studying the movements of its center of mass (team’s centroid). Remarkably, the
+trajectory of the centroid also exhibits L´evy walk properties, marking the frst instance of such type of motion observed at the
+group level. Our work concludes with a comparative analysis of diferent teams and some discussion on the relevance of our
+fndings to sports science and science more generally.
+
+---
