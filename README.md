@@ -33,7 +33,7 @@ Our findings may stimulate future research activities on momentum-space vortex l
    </details>
 
 
-3. ### General-purpose machine-learned potential for 16 elemental metals and their alloys [\[Read\](https://www.nature.com/articles/s41467-024-54554-x)
+3. ### General-purpose machine-learned potential for 16 elemental metals and their alloys [\[Read\]](https://www.nature.com/articles/s41467-024-54554-x)
 K. Song et al.
 
 (Ferenc)
