@@ -1,4 +1,4 @@
-## Papers that will be discussed in the coming meeting
+## Papers that was discussed in the meeting
 
 1. ### Review of commercial nuclear fusion projects  [\[Read\]](https://doi.org/10.3389/fenrg.2023.1157394)
 Samuele Meschini et al.
