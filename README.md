@@ -32,4 +32,12 @@ Our findings may stimulate future research activities on momentum-space vortex l
     It is a notable challenge to design and implement an architecture that can enable the execution of arbitrary quantum network applications on quantum processor end nodes (Fig. 1) while enabling programming in high-level software that neither depends on the underlying quantum hardware nor requires the programmer to understand the physics of the underlying devices. In the domain of the conventional internet, the possibility of programming arbitrary internet applications in high-level software has led to the realization of radically new communication applications by diverse communities, which had a transformative impact on our society40. What’s more, the advent of programmable hardware and new application areas sparked new fields of computer science research and guided further hardware development (for example, network programming and protocols, distributed systems, internet of things and more). A similar development is underway in quantum computing, in which the availability of high-level programming tools allows a broad participation in developing applications41.
    </details>
 
+
+3. ### General-purpose machine-learned potential for 16 elemental metals and their alloys [\[Read\](https://www.nature.com/articles/s41467-024-54554-x)
+K. Song et al.
+
+(Ferenc)
+
+Abstract - Machine-learned potentials (MLPs) have exhibited remarkable accuracy, yet the lack of general-purpose MLPs for a broad spectrum of elements and their alloys limits their applicability. Here, we present a promising approach for constructing a unified general-purpose MLP for numerous elements, demonstrated through a model (UNEP-v1) for 16 elemental metals and their alloys. To achieve a complete representation of the chemical space, we show, via principal component analysis and diverse test datasets, that employing one-component and two-component systems suffices. Our unified UNEP-v1 model exhibits superior performance across various physical properties compared to a widely used embedded-atom method potential, while maintaining remarkable efficiency. We demonstrate our approach’s effectiveness through reproducing experimentally observed chemical order and stable phases, and large-scale simulations of plasticity and primary radiation damage in MoTaVW alloys.
+
 ---
